@@ -1,0 +1,118 @@
+#ra{
+	
+	
+	width:480px;
+	
+	
+}
+#name{
+	margin-left:900px;
+}
+#rr{
+	
+	width:480px;
+	
+	
+}
+body{
+	
+	margin-left:200px;
+	margin-right:200px;
+	border:1px solid black;
+	padding-left:90px;
+	padding-right:90px;
+	padding-top:12px;
+	padding-bottom:90px;
+	
+	background:#717687;
+	
+	width:600PX;
+}
+fieldset{
+	width:180px;
+	margin-left:230px;
+	color:white;
+	
+}
+input:focus, textarea:focus {
+          border-color: #000;
+      }
+fieldset ul li{
+	list-style:none;
+}
+#ra input{
+	width:200px;
+	margin-left:60px;
+	position:relative;
+	height:30PX;
+
+}
+#ra label{
+	background:#0e5b4b;
+	color:white;
+	width:80px;
+	margin-left:80px;
+	text-align:center;
+	border:1PX solid black;
+	display: inline-block;
+}
+#rr label{
+	color:white;
+	width:120px;
+	background:#0e5b4b;
+	margin-left:80px;
+	text-align:center;
+	border:1PX solid black;
+	display: inline-block;
+}
+#card label{
+	color:white;
+	width:80px;
+	margin-left:80px;
+	background:#0e5b4b;
+	text-align:center;
+	border:1PX solid black;
+	display: inline-block;
+}
+#card{
+width:200px;
+	margin-left:30px;
+	position:relative;
+	height:30PX;
+
+	
+}
+#rr input{
+width:200px;
+	margin-left:30px;
+	position:relative;
+	height:30PX;
+
+	
+}
+button{
+	margin-left:290px;
+	height:30px;
+	background:#0e5b4b;
+	color:white;
+}
+button:hover{
+	background:red;
+}
+form{
+	margin-top:20PX;
+	background:#545f84;
+	border:1px solid black;
+	padding:20px;
+	border-radius:12px;
+	height:700px;
+}
+
+h1{
+	
+	font-size:30px;
+	padding:0px;
+}
+HTML{
+	background:white;
+}
